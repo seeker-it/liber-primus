@@ -58,7 +58,7 @@ On **January 5, 2014**, a year after the second puzzle, once more, Cicada 3301 r
 
 > *"Hello. Epiphany is upon you. Your pilgrimage has begun. Enlightenment awaits. Good luck. 3301*
 
-The process stood the same to the previous puzzles. The image contained hidden text, the text led to a book, and gradually the puzzle unfolded. Except this time, the puzzle seemed to have hit a breaking point with the book part. The book was called *Liber Primus*, and was supposedly written by Cicada. Through several .onion links, all pages of the book were all uncovered. And this is where we stand today...
+The process remains true to the previous puzzles. The image contained hidden text, the text led to a book, and gradually the puzzle unfolded. Except this time, the puzzle seemed to have hit a breaking point with the book part. The book was called *Liber Primus*, and was supposedly written by Cicada. Through several .onion links, all pages of the book were all uncovered. And this is where we stand today...
 </details>
 
 ---
