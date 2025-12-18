@@ -3,6 +3,16 @@
 ## Overview
 This repository is my dedicated effort to document the knowledge, analysis, and solving attempts of *Liber Primus*, the cryptographic book that emerged as part of the *Cicada 3301* puzzle series. It is structured to provide historical context, linguistic analysis, cryptographic techniques, and documented efforts to decipher its contents. 
 
+- [ ] Rewrite README.md to be more comprehensive; more information, and more correct.
+
+- [ ] Document ciphers -> ./references/ciphers/
+
+- [ ] Add all used books -> ./references/books/ (either by linking due to length or text format)
+
+- [ ] Document and create tools -> ./tools/ (includes any software that helped with the deciphering of any part of Cicada)
+
+- [ ] Solve the Liber Primus.
+
 ## Introduction
 
 <details>
