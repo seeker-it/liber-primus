@@ -1,6 +1,8 @@
 > [!IMPORTANT]
 > AGRIPPA (A Book of The Dead) by William Gibson
 
+-----
+
 I hesitated
 before untying the bow
 that bound this book together.
@@ -110,6 +112,8 @@ Behind him stands a cone of sawdust some thirty feet in height.
 (How that feels to tumble down,
 or smells when it is wet)
 
+-----
+
 II.
 
 The mechanism: stamped black tin,
@@ -162,6 +166,8 @@ in awareness of the mechanism.
 Like the first time you put your mouth
 on a woman.
 
+-----
+
 III.
 
 "Ice Gorge at Wheeling
@@ -209,6 +215,8 @@ torn clipping offers a 1957 DeSOTO FIREDOME, 4-door Sedan,
 torqueflite radio, heather and power steering and brakes, new
 w.s.w. premium tires. One owner. $1,595.
 
+-----
+
 IV.
 
 He made it to the age of torqueflite radio
@@ -248,6 +256,8 @@ clipping walnut twigs from a branch
 two feet above my head.
 
 So that I remembered the mechanism.
+
+-----
 
 V.
 
@@ -297,6 +307,8 @@ so quiet I could hear the timers of the traffic lights a block away:
 the mechanism. Nobody else, just the silence
 spreading out to where the long trucks groaned
 on the highway their vast brute souls in want.
+
+-----
 
 VI.
 
