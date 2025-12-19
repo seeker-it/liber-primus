@@ -3,6 +3,10 @@
 
 __The book code for Agrippa:__
 
+> A poem of fading death, named for a king  
+> Meant to be read only once and vanish  
+> Alas, it could not remain unseen.
+
 | Book code  | Resulting character |
 | :---: | :---: |
 | 1:29  | s  |
@@ -27,10 +31,6 @@ __The book code for Agrippa:__
 | 12:29  | i  |
 | 25:66  | o  |
 | 7:47  | n  |
-
-A poem of fading death, named for a king
-Meant to be read only once and vanish
-Alas, it could not remain unseen.
 
 -----
 
