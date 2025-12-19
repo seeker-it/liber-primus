@@ -1,6 +1,37 @@
 > [!IMPORTANT]
 > AGRIPPA (A Book of The Dead) by William Gibson
 
+__The book code for Agrippa:__
+
+| Book code  | Resulting character |
+| :---: | :---: |
+| 1:29  | s  |
+| 6:46  | q  |
+| the product of the first two primes  | 6  |
+| 2:37  | w  |
+| 14:41  | m  |
+| 17:3  | g  |
+| 27:40  | v  |
+| the first prime  | 2  |
+| 2:33  | z  |
+| 1:1  | c  |
+| 7:45  | s  |
+| 17:29  | r  |
+| 21:31  | i  |
+| 12:17  | x|
+| the product of the first two primes  | 6  |
+| 22:42  | t  |
+| 15:18  | .  |
+| 24:33  | o  |
+| 27:46  | n  |
+| 12:29  | i  |
+| 25:66  | o  |
+| 7:47  | n  |
+
+A poem of fading death, named for a king
+Meant to be read only once and vanish
+Alas, it could not remain unseen.
+
 -----
 
 I hesitated
